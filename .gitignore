@@ -1,0 +1,7 @@
+*.eww
+*.dep
+*.ewd
+*.graphml
+Debug/*
+*.ewp
+settings/*
