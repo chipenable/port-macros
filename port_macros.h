@@ -2,7 +2,6 @@
 //
 //  Author(s)...: Pavel Bobkov  site: http://ChipEnable.Ru 
 //                              skype: microsmaster
-//                              email: microsmaster@rambler.ru
 //                              fb: https://www.facebook.com/pasha.bobkov
 //
 //  Target(s)...: AVR
@@ -27,7 +26,7 @@ alias - no matter
 name - no matter
 
 letter - it doesn't matter if you use virtual ports 
-           for real ports you have to use real letters - A, B, C, D ...
+           for real ports you must use real letters - A, B, C, D ...
 
 type of the port - _VIRT, _REAL, _NONE
 You can use _VIRT with real ports, but your code will not be optimal 
